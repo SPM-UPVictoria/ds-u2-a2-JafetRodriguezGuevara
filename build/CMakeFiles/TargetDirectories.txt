@@ -1,0 +1,3 @@
+C:/Users/rodri/OneDrive/Escritorio/ProyectoMensajeria/build/CMakeFiles/SistemaMensajeria.dir
+C:/Users/rodri/OneDrive/Escritorio/ProyectoMensajeria/build/CMakeFiles/edit_cache.dir
+C:/Users/rodri/OneDrive/Escritorio/ProyectoMensajeria/build/CMakeFiles/rebuild_cache.dir
